@@ -1,4 +1,4 @@
-# Chipere [Laravel Project]
+# Chirper [Laravel Project]
 
 This Login UI is `eye-catching`, `elegant`, `comfortable`, `pleasant interface`. It is Desigined Using html, css and javascript ~:sunglasses:
 
