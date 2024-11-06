@@ -1,67 +1,39 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Chipere [Laravel Project]
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+This Login UI is `eye-catching`, `elegant`, `comfortable`, `pleasant interface`. It is Desigined Using html, css and javascript ~:sunglasses:
 
-## About Laravel
+For free use, Feel free to clone this Repo~~
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### :star: Log In Page (Preview)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![login](https://github.com/user-attachments/assets/fc8ae819-d884-4d1a-8d08-203b54dae100)
 
-## Learning Laravel
+### :star: Sign In page (Preview)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![Register](https://github.com/user-attachments/assets/d548e35f-f158-4dd0-9903-f1b944af1116)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### :star: Forgot Password page (Preview)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![forgot_password](https://github.com/user-attachments/assets/c19594bd-4cb5-4205-9b9c-6f1b6a026564)
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### :star: Home page (Preview)
 
-### Premium Partners
+![Screenshot 2024-11-06 113552](https://github.com/user-attachments/assets/6b87b537-1898-43de-ae68-0dda60c94ff1)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### :star: Edit Chirp (Preview)
+![Screenshot 2024-11-06 113618](https://github.com/user-attachments/assets/7b603e20-02b2-44be-8b9f-407f100d4cca)
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### :star: Profile page (Preview)
+![Screenshot 2024-11-06 123710](https://github.com/user-attachments/assets/93507654-f58f-4e44-a53d-f6cab5401ec2)
+![Screenshot 2024-11-06 123730](https://github.com/user-attachments/assets/cc3cf0b7-204e-427d-84d8-357167feb3dd)
 
-## Code of Conduct
+### :star: Other Pages (Preview)
+![Screenshot 2024-11-06 113346](https://github.com/user-attachments/assets/70870535-6f3e-4be1-9b7a-b8d5ffac21df)
+![Screenshot 2024-11-06 113411](https://github.com/user-attachments/assets/9575d4f6-551e-49fd-b5fa-fc217921b759)
+![Screenshot 2024-11-06 113552](https://github.com/user-attachments/assets/16c662f4-9842-4f86-85b4-7d898bf09f9f)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Chirper-with-Laravel
+([`Chirper with Laravel`](https://animated-login-and-sign-up-a26fa2d4021f.herokuapp.com/) See the Live App Here)
